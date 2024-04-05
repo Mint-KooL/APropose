@@ -1,0 +1,260 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #f9d4e0;
+}
+
+.intro {
+    text-align: center;
+    padding: 50px;
+}
+
+.intro h1 {
+    color: purple;
+}
+
+.first {
+    
+    text-align: center;
+}
+
+.first h2 {
+    color: purple;
+}
+
+.button-container {
+    margin-top: 50px;
+    text-align: center; 
+}
+
+.button-container button {
+    display: inline-block; 
+    margin: 0 10px; 
+    padding: 10px 20px; 
+    background-color: purple; 
+    border: none; 
+    color: white; 
+    text-align: center;
+    text-decoration: none; 
+    font-size: 20px; 
+    cursor: pointer; 
+}
+
+.button1:hover {
+    color: black;
+    background-color: white;
+    box-shadow: 0 0 10px #fdfeff;
+}
+
+.button-container1 {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.button-container1 button {
+    display: inline-block; 
+    margin: 0 10px; 
+    padding: 5px 10px; 
+    background-color: rgb(239, 176, 80); 
+    border: none; 
+    color: white; 
+    text-align: center;
+    text-decoration: none; 
+    font-size: 17px; 
+    cursor: pointer; 
+}
+
+.button3:hover {
+    color: black;
+    background-color: white;
+    box-shadow: 0 0 10px #fdfeff;
+}
+
+.image-container {
+    text-align: center;
+    padding: 15px;
+    color: purple;
+}
+
+.image-container img {
+    border: 5px solid paleturquoise; 
+    border-radius: 5px;
+}
+
+.paragraph-b h2 {
+    text-align: center;
+    font-size: 15px;
+    color: purple;
+}
+
+
+
+
+.image-container-1 {
+    text-align: center;
+    padding: 15px;
+    color: purple;
+}
+
+.image-container-1 img {
+    border: 5px solid paleturquoise; 
+    border-radius: 5px;
+}
+
+.paragraph-c h2 {
+    text-align: center;
+    font-size: 15px;
+    color: purple;
+}
+
+
+
+
+.image-container-2 {
+    text-align: center;
+    padding: 15px;
+    color: purple;
+}
+
+.image-container-2 img {
+    border: 5px solid paleturquoise; 
+    border-radius: 5px;
+}
+
+.paragraph-d h2 {
+    text-align: center;
+    font-size: 15px;
+    color: purple;
+}
+
+
+.image-container-3 {
+    text-align: center;
+    padding: 15px;
+    color: purple;
+}
+
+.image-container-3 img {
+    border: 5px solid paleturquoise; 
+    border-radius: 5px;
+}
+
+.paragraph-e h2 {
+    text-align: center;
+    font-size: 15px;
+    color: purple;
+}
+
+hr {
+    color: black;
+}
+
+.note {
+    padding-bottom: 30px;
+}
+
+.note h1 {
+    text-align: center;
+    padding: 5px;
+    color: rgb(239, 176, 80);
+    border: 5px solid rgb(142, 236, 60);
+    border-radius: 5px;
+}
+
+.button-container2 {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.button-container2 button {
+    display: inline-block; 
+    margin: 0 10px; 
+    padding: 10px 20px; 
+    background-color: rgb(239, 176, 80); 
+    border: none; 
+    color: white; 
+    text-align: center;
+    text-decoration: none; 
+    font-size: 17px; 
+    cursor: pointer; 
+}
+
+.button4:hover {
+    color: black;
+    background-color: white;
+    box-shadow: 0 0 10px #fdfeff;
+}
+
+.first-p {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.first-p h1 {
+    font-size: 15px;
+    color: #f07959;
+}
+
+.first-p span {
+    font-size:  25px;
+}
+
+.second-p {
+    padding: 15px;
+    text-align: center;
+}
+
+.second-p h1 {
+    font-size: 15px;
+    color: #f07959;
+    border: 5px solid #c3e37d;
+}
+
+.third-p {
+    padding: 15px;
+    text-align: center;
+}
+
+.third-p h1 {
+    font-size: 15px;
+    color: #f07959;
+}
+
+.love {
+    background: blanchedalmond;
+}
+
+.lg {
+    padding-top: 20px;
+    text-align: center;
+    color: #f07959;
+}
+
+.p-letter {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.p-letter h1 {
+    font-size: 15px;
+    color: white;
+    padding: 5px;
+    border: 3px solid rgb(247, 104, 104);
+}
+
+.p-letter2 {
+    padding-bottom: 30px;
+    text-align: center
+}
+
+.p-letter2 h1 {
+    font-size: 15px;
+    color: white;
+}
+
+.proposep {
+    background-color: black;
+}
